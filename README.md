@@ -1,5 +1,5 @@
 # MarkdownToHtml
-> 将Markdown文档转换为HTML显示
+> 将Markdown文档转换为HTML显示,使用了Node.js
 
 ## 说明
 > 在程序的中，我结合了bootstrap的样式，所以稍微更改了下模块marked的源码，这也是为了显示更好。我的测试md文档放在了，public/doc下。这边用了一个代码高亮的插件：highlight.js，你也可以用一些别的。<br><br>
